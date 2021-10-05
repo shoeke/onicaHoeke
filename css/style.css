@@ -1,0 +1,18 @@
+p {
+    font-family: 'Quicksand', sans-serif;
+    font-size: 16px;
+    color: crimson;
+}
+h1, h2 {
+    font-family: 'Chonburi', cursive;
+    color:cornflowerblue;
+}
+h1 {
+    font-size: 3rem;
+}
+h2 {
+    font-size: 2rem;
+}
+.pagewrapper {
+    margin: 26px 80px;
+}
